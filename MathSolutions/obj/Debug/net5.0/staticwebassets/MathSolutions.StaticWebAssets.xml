@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Tewr.Blazor.FileReader" Path="C:\Users\osori\.nuget\packages\tewr.blazor.filereader\3.3.1.21360\build\..\staticwebassets\" />
+</StaticWebAssets>

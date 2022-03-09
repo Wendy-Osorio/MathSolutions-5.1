@@ -1,0 +1,122 @@
+﻿@page "/cursos/add"
+
+<h1>Agregar curso</h1>
+
+<EditForm Model="@curso">
+    <form class="container-border" @onsubmit="Save">
+        @*<div class="mb-2">
+            <label class="col-form-label" for="name">ID</label>
+            <InputText class="form-control" @bind-Value="@curso.IdProfesor" id="IdCurso"></InputText>
+        </div>*@
+        <div class="mb-2">
+            <label class="col-form-label" for="titulo">Titulo del curso: </label>
+            <InputText class="form-control" @bind-Value="@curso.Titulo"   id="titulo"></InputText>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="fechainicio">Fecha de inicio: </label>
+            <InputDate class="form-control" @bind-Value="@curso.FechaInicio" id="fechainicio"></InputDate>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="fechacierre">Fecha de cierre: </label>
+            <InputDate class="form-control" @bind-Value="@curso.FechaCierre" id="fechacierre"></InputDate>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="linkreunion">Link de la reunion: </label>
+            <InputText class="form-control" @bind-Value="@curso.LinkReunion" id="linkreunion"></InputText>
+        </div>
+
+        <div class="mb-2 form-control-file">
+            <label class="col-form-label" for="material">Material: </label>
+            <input type="file" id="material" class="form-control"/>
+
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="descripcion">Descripción: </label>
+            <InputText class="form-control" @bind-Value="@curso.Descripcion" id="descripcion"></InputText>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="status">status: </label>
+            <InputSelect class="form-control" @bind-Value="@curso.IdEstatus">
+                <option value="-1" disabled>Seleccione un estatus</option>
+                @if (loading)
+                {
+                    <option value="0" disabled>cargando...</option>
+                }
+                else if (estatuses!= null)
+                {
+                    @foreach (var estatus in estatuses)
+                    {
+                        <option value="@estatus.IdEstatus">@estatus.Estado</option>
+                    }
+                }
+            </InputSelect>
+
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="profesor">ID del Profesor</label>
+            <InputSelect class="form-control" @bind-Value="@curso.IdProfesor">
+                <option value="-1" disabled>Selecciona un profesor</option>
+                @if (loading)
+                {
+                    <option value="0" disabled>cargando...</option> 
+                }
+                else if (profesors != null)
+                {
+                    @foreach (var profesor in profesors)
+                    {
+                        <option value="@profesor.IdProfesor">@profesor.NombreCompleto</option>
+                    }
+                }
+            </InputSelect>
+        </div>
+
+        <button type="submit" class="btn btn-outline-primary">Guardar</button>
+        <a class="btn btn-outline-danger" href="/cursos">Cancelar</a>
+    </form>
+</EditForm>
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@inject HttpClient http
+@using System.Net.Http
+@using System.Net.Http.Json
+@inject NavigationManager NavigationManager
+
+@code{
+
+    [Parameter]
+
+    public bool isUpdate { get; set; } = false;
+
+    public int id { get; set; }
+
+    Curso curso = new Curso();
+
+    bool loading = true;
+
+    IList<Profesor> profesors;
+
+    IList<Estatus> estatuses;
+
+    protected override async Task OnInitializedAsync()
+    {
+        profesors = await http.GetFromJsonAsync<IList<Profesor>>("api/CuentaProfesor/TodosLosProfesores");
+        estatuses = await http.GetFromJsonAsync<IList<Estatus>>("api/Profesor/TodosLosEstatus");
+        loading = false;
+    }
+
+    protected async Task Save()
+    {
+        HttpResponseMessage response;
+
+        response = await http.PostAsJsonAsync<Curso>("api/Profesor/RegistrarCurso", curso!);
+
+        NavigationManager.NavigateTo("/cursos");
+    }
+}

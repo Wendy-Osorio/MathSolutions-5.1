@@ -1,0 +1,94 @@
+﻿@page "/cursos/update/{id:int}"
+
+<h1>@(isUpdate ? $"Editar curso[id: {curso.IdCurso}]":"")</h1>
+
+<EditForm Model="@curso">
+    <form class="container-border" @onsubmit="UpdateCurso">
+        @*<div class="mb-2">
+            <label class="col-form-label" for="name">ID</label>
+            <InputText class="form-control" @bind-Value="@curso.IdProfesor" id="IdCurso"></InputText>
+        </div>*@
+        <div class="mb-2">
+            <label class="col-form-label" for="titulo">Titulo</label>
+            <InputText class="form-control" @bind-Value="@curso.Titulo" id="titulo"></InputText>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="fechainicio">Fecha de Inicio</label>
+            <InputDate class="form-control" @bind-Value="@curso.FechaInicio" id="fechainicio"></InputDate>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="fechacierre">Fecha de Cierre</label>
+            <InputDate class="form-control" @bind-Value="@curso.FechaCierre" id="fechacierre"></InputDate>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="linkReunion">Link de laReunion</label>
+            <InputText class="form-control" @bind-Value="@curso.LinkReunion" id="linkReunion"></InputText>
+        </div>
+
+        <div class="mb-2 form-control-file">
+            <label class="col-form-label" for="material">Material: </label>
+            <InputFile OnChange="OnFileChange"/>
+           
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="descripcion">Descripción</label>
+            <InputText class="form-control" @bind-Value="@curso.Descripcion" id="descripcion"></InputText>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="idprofesor">ID del Profesor</label>
+            <InputNumber class="form-control" @bind-Value="@curso.IdProfesor" id="idprofesor"></InputNumber>
+        </div>
+        <button type="submit" class="btn btn-outline-primary">Guardar</button>
+        <a class="btn btn-outline-danger" href="/cursos">Cancelar</a>
+    </form>
+</EditForm>
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@inject HttpClient http
+@using System.Net.Http
+@using System.Net.Http.Json
+@inject NavigationManager NavigationManager
+
+
+@code{
+    [Parameter]
+
+    public bool isUpdate { get; set; } = false;
+
+    public int id { get; set; }
+
+    Curso curso = new Curso();
+
+    protected async Task UpdateCurso()
+    {
+        HttpResponseMessage response;
+
+        response = await http.PutAsJsonAsync<Curso>($"api/Profesor/ModificarCurso/{curso.IdCurso}", curso!);
+
+        NavigationManager.NavigateTo("/cursos");
+    }
+
+
+    async Task OnFileChange(InputFileChangeEventArgs e) 
+    {
+        var format = "file/pdf";
+
+        var resizedFile = await e.File.RequestImageFileAsync(format, 300, 300);
+
+        var buffer = new byte[resizedFile.Size];
+
+        await resizedFile.OpenReadStream().ReadAsync(buffer);
+
+        var fileData = $"data:{format};base64,{Convert.ToBase64String(buffer)}";
+
+        curso.Material = fileData;
+
+        Console.WriteLine(curso.Material);
+    }
+}

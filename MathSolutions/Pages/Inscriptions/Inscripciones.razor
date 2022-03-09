@@ -1,0 +1,71 @@
+﻿@page "/inscripcions"
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@inject HttpClient http
+@using System.Net.Http
+@using System.Net.Http.Json
+<div class="tittle">
+    <div class="tittle_content">
+        <h1>Inscripciones</h1>
+    </div>
+
+    <div class="tittle_btn">
+        <a href="/inscripcions/add" class="btn btn-outline-success">
+            <i class="oi oi-plus"></i>
+            &nbsp;
+            Agregar
+        </a>
+    </div>
+
+</div>
+
+<p>Tabla de estudiantes inscritos</p>
+
+@if (inscripcions == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>ID perteneciente al estudiante</th>
+                <th>ID perteneciente al curso</th>
+                <th>Opciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var inscripcion in inscripcions)
+            {
+                <tr>
+                    <td>@inscripcion.IdInscripcion</td>
+                    <td>@inscripcion.IdEstudiante</td>
+                    <td>@inscripcion.IdCurso</td>
+                    <td>
+                        <span class="icon">
+                            <a href="/inscripciones/update/@inscripcion.IdInscripcion" class="oi oi-pencil" title="Editar"></a>
+                        </span>
+                        <span class="icon">
+                            <a href="/inscripciones/delete/@inscripcion.IdInscripcion" class="oi oi-trash" title="Eliminar"></a>
+                        </span>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private readonly string api = "api/Inscripciones/TodosLosInscritos";
+    private IList<Inscripcion> inscripcions;
+
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        inscripcions = await http.GetFromJsonAsync<IList<Inscripcion>>(api);
+    }
+}

@@ -1,0 +1,72 @@
+﻿@page "/inscripcions/add"
+
+<h1>Agregar una nueva inscripcion</h1>
+
+<EditForm Model="@inscripcion">
+    <form class="container-border" @onsubmit="Save">
+        <div class="mb-2">
+            <label class="col-form-label" for="name">ID del estudiante</label>
+            <InputNumber class="form-control" @bind-Value="@inscripcion.IdEstudiante" id="email"></InputNumber>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="name">ID del curso</label>
+            <InputNumber class="form-control" @bind-Value="@inscripcion.IdCurso" id="redessociales"></InputNumber>
+        </div>
+
+        <button type="submit" class="btn btn-outline-primary">Guardar</button>
+        <a class="btn btn-outline-danger" href="/inscripcions">Cancelar</a>
+    </form>
+</EditForm>
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@inject HttpClient http
+@using System.Net.Http
+@using System.Net.Http.Json
+@inject NavigationManager NavigationManager
+
+@code{
+    [Parameter]
+
+    public bool isUpdate { get; set; } = false;
+
+    public int id { get; set; }
+
+    //bool loading = true;
+
+    //IList<Inscripcion> inscripcions;
+
+    Inscripcion inscripcion = new Inscripcion();
+
+    //protected override async Task OnInitializedAsync()
+    //{
+    //    inscripcions = await http.GetFromJsonAsync<IList<Inscripcion>>("api/inscripcion");
+    //    isUpdate = id != 0;
+    //    if (isUpdate)
+    //    {
+    //        var response = await http.GetFromJsonAsync<Inscripcion>($"api/inscripcion/{id}");
+    //        if (response != null)
+    //        {
+    //            inscripcion = response;
+
+    //        }
+    //    }
+    //    loading = false;
+    //}
+
+    protected async Task Save()
+    {
+        HttpResponseMessage response;
+        if (isUpdate)
+        {
+            response = await http.PutAsJsonAsync<Inscripcion>($"api/inscripcion/{id}", inscripcion!);
+        }
+        else
+        {
+            response = await http.PostAsJsonAsync<Inscripcion>("api/inscripcion", inscripcion!);
+        }
+        Inscripcion Saved = response.Content.ReadFromJsonAsync<Inscripcion>().Result;
+        NavigationManager.NavigateTo("/inscripcions");
+    }
+}

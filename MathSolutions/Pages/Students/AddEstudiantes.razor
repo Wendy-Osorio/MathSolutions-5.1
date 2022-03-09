@@ -1,0 +1,59 @@
+﻿@page "/estudiantes/add"
+
+<h1>Agregar estudiante</h1>
+
+<EditForm Model="@estudiante">
+    <form class="container-border" @onsubmit="Save">
+        @*<div class="mb-2">
+                <label class="col-form-label" for="name">ID</label>
+                <InputText class="form-control" @bind-Value="@estudiante.IdEstudiante" id="idestudiante"></InputText>
+            </div>*@
+        <div class="mb-2">
+            <label class="col-form-label" for="nombre-completo">Nombre completo: </label>
+            <InputText class="form-control" @bind-Value="@estudiante.NombreCompleto" id="nombre-completo"></InputText>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="correo">Correo electrónico: </label>
+            <InputText class="form-control" @bind-Value="@estudiante.Correo" id="correo"></InputText>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="clave">Contraseña: </label>
+            <InputText class="form-control" @bind-Value="@estudiante.Clave" id="clave"></InputText>
+        </div>
+
+        <button type="submit" class="btn btn-outline-primary">Guardar</button>
+        <a class="btn btn-outline-danger" href="/estudiantes">Cancelar</a>
+    </form>
+</EditForm>
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@using System.Net.Http
+@using System.Net.Http.Json
+@inject HttpClient http
+@inject NavigationManager NavigationManager
+
+@code{ 
+
+        [Parameter]
+
+        public int id { get; set; }
+
+        public bool isUpdate { get; set; } = false;
+
+
+        Estudiante estudiante = new Estudiante();
+
+        protected async Task Save()
+        {
+            HttpResponseMessage response;
+
+            response = await http.PostAsJsonAsync<Estudiante>("api/CuentaEstudiante/Registrarse", estudiante!);
+
+            Estudiante Saved = response.Content.ReadFromJsonAsync<Estudiante>().Result;
+
+            NavigationManager.NavigateTo("/estudiantes");
+        }
+    }

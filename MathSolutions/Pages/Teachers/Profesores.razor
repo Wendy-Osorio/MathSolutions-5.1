@@ -1,0 +1,79 @@
+﻿@page "/profesores"
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@inject HttpClient http
+@using System.Net.Http
+@using System.Net.Http.Json
+
+<div class="tittle">
+    <div class="tittle_content">
+        <h1>Profesores</h1>
+    </div>
+
+    <div class="tittle_btn">
+        <a href="/profesores/add" class="btn btn-outline-success">
+            <i class="oi oi-plus"></i>
+            &nbsp;
+            Agregar
+        </a>
+    </div>
+
+</div>
+
+<p>Tabla de Profesores</p>
+
+@if (profesores == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Correo</th>
+                <th>Redes Sociales</th>
+                <th>Descripción</th>
+                <th>Opciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var profesor in profesores)
+            {
+                <tr>
+                    <td>@profesor.IdProfesor</td>
+                    <td>@profesor.NombreCompleto</td>
+                    <td>@profesor.Correo</td>
+                    <td>@profesor.RedesSociales</td>
+                    <td>@profesor.Descripcion</td>
+                    <td>
+                        <span class="icon">
+                            <a href="/profesores/update/@profesor.IdProfesor" class="oi oi-pencil" title="Editar"></a>
+                        </span>
+                        &nbsp;
+                        &nbsp;
+                        &nbsp;
+                        <span class="icon">
+                            <a href="/profesores/delete/@profesor.IdProfesor" class="oi oi-trash" title="Eliminar"></a>
+                        </span>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private readonly string api = "api/CuentaProfesor/TodosLosProfesores";
+    private IList<Profesor> profesores;
+
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        profesores = await http.GetFromJsonAsync<IList<Profesor>>(api);
+    }
+}

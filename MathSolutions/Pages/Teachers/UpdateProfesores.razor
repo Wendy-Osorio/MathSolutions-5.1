@@ -1,0 +1,65 @@
+﻿@page "/profesores/update/{id:int}"
+
+<h1>Modificar profesor</h1>
+
+<EditForm Model="@profesor">
+    <form class="container-border" @onsubmit="Update">
+        @*<div class="mb-2">
+                <label class="col-form-label" for="name">ID</label>
+                <InputText class="form-control" @bind-Value="@profesor.IdProfesor" id="idprofesor"></InputText>
+            </div>*@
+        <div class="mb-2">
+            <label class="col-form-label" for="nombre-completo">Nombre completo: </label>
+            <InputText class="form-control" @bind-Value="@profesor.NombreCompleto" id="nombre-completo"></InputText>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="correo">Correo electrónico: </label>
+            <InputText class="form-control" @bind-Value="@profesor.Correo" id="correo"></InputText>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="clave">Contraseña: </label>
+            <InputText class="form-control" @bind-Value="@profesor.Clave" id="clave"></InputText>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="redessociales">Redes sociales: </label>
+            <InputText class="form-control" @bind-Value="@profesor.RedesSociales" placeholder="Copie y pegue el link de su red social" id="redessociales"></InputText>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="descripcion">Descripción: </label>
+            <InputText class="form-control" @bind-Value="@profesor.Descripcion" id="descripcion"></InputText>
+        </div>
+        <button type="submit" class="btn btn-outline-primary">Guardar</button>
+        <a class="btn btn-outline-danger" href="/estudiantes">Cancelar</a>
+    </form>
+</EditForm>
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@inject HttpClient http
+@using System.Net.Http
+@using System.Net.Http.Json
+@inject NavigationManager NavigationManager
+
+@code{ 
+
+    [Parameter]
+
+    public int id { get; set; }
+
+    public bool isUpdate { get; set; } = false;
+
+    Profesor profesor = new Profesor();
+
+    protected async Task Update()
+    {
+        HttpResponseMessage response;
+
+        response = await http.PutAsJsonAsync<Profesor>($"api/Profesor/ModificarInfo/{id}", profesor!);
+
+        NavigationManager.NavigateTo("/profesores");
+    }
+}

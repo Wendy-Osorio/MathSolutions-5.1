@@ -1,0 +1,80 @@
+﻿@page "/cursos"
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@inject HttpClient http
+@using System.Net.Http
+@using System.Net.Http.Json
+<div class="tittle">
+    <div class="tittle_content">
+        <h1>Cursos</h1>
+    </div>
+
+    <div class="tittle_btn">
+        <a href="/cursos/add" class="btn btn-outline-success">
+            <i class="oi oi-plus"></i>
+            &nbsp;
+            Agregar
+        </a>
+    </div>
+
+</div>
+
+<p>Tabla de los Cursos</p>
+
+@if (cursos == null)
+{
+<p><em>Loading...</em></p> }
+            else
+            {
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Fecha de Inicio</th>
+            <th>Fecha de Cierre</th>
+            <th>Descripción</th>
+            <th>Estatus</th>
+            <th>Profesor</th>
+            <th>Opciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var curso in cursos)
+        {
+<tr>
+    <td>@curso.IdCurso</td>
+    <td>@curso.Titulo</td>
+    <td>@curso.FechaInicio</td>
+    <td>@curso.FechaCierre</td>
+    <td>@curso.Descripcion</td>
+    <td>@curso.IdEstatus</td>
+    <td>@curso.IdProfesor</td>
+    <td>
+        <span class="icon">
+            <a href="/cursos/update/@curso.IdCurso" class="oi oi-pencil" title="Editar"></a>
+        </span>
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        <span class="icon">
+            <a href="/cursos/delete/@curso.IdCurso" class="oi oi-trash" title="Eliminar"></a>
+        </span>
+    </td>
+</tr>}
+    </tbody>
+</table>}
+
+@code { 
+    
+    private readonly string api = "api/Profesor/TodosLosCursos";
+    private IList<Curso> cursos;
+
+
+
+     protected override async Task OnInitializedAsync()
+     {
+         cursos = await http.GetFromJsonAsync<IList<Curso>>(api);
+     } 
+}

@@ -1,0 +1,40 @@
+﻿@page "/cursos/delete/{id:int}"
+
+<h1>Eliminar curso</h1>
+
+<h2>¿Estas seguro que desea borrar a este curso de la base de datos?</h2>
+
+<button class="btn btn-outline-primary" @onclick="ConfirmDelete">Eliminar</button>
+<a class="btn btn-outline-danger" href="/cursos">Cancelar</a>
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@inject HttpClient http
+@using System.Net.Http
+@using System.Net.Http.Json
+@inject NavigationManager NavigationManager
+
+@code{
+    [Parameter]
+
+    public int id { get; set; }
+
+    Curso curso;
+
+    protected override async Task OnInitializedAsync()
+    {
+        curso = await http.GetFromJsonAsync<Curso>($"api/Profesor/Curso/{id}");
+
+    }
+
+    private async Task ConfirmDelete()
+    {
+        var response = await http.DeleteAsync($"api/Profesor/EliminarCurso/{id}");
+        if (response.IsSuccessStatusCode)
+        {
+            NavigationManager.NavigateTo("/cursos");
+        }
+    }
+
+}
+

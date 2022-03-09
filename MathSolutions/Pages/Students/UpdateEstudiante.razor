@@ -1,0 +1,60 @@
+﻿@page "/estudiantes/update/{id:int}"
+
+<h1>Modificar estudiante</h1>
+
+<EditForm Model="@estudiante">
+    <form class="container-border" @onsubmit="Update">
+        @*<div class="mb-2">
+                <label class="col-form-label" for="name">ID</label>
+                <InputText class="form-control" @bind-Value="@estudiante.IdEstudiante" id="idestudiante"></InputText>
+            </div>*@
+        <div class="mb-2">
+            <label class="col-form-label" for="nombre-completo">Nombre</label>
+            <InputText class="form-control" @bind-Value="@estudiante.NombreCompleto" id="nombre-completo"></InputText>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="correo">Correo Electrónico</label>
+            <InputText class="form-control" @bind-Value="@estudiante.Correo" id="correo"></InputText>
+        </div>
+
+        <div class="mb-2">
+            <label class="col-form-label" for="clave">Contraseña</label>
+            <InputText class="form-control" @bind-Value="@estudiante.Clave" id="clave"></InputText>
+        </div>
+
+        <button type="submit" class="btn btn-outline-primary">Guardar</button>
+        <a class="btn btn-outline-danger" href="/estudiantes">Cancelar</a>
+    </form>
+</EditForm>
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@using System.Net.Http
+@using System.Net.Http.Json
+@inject HttpClient http
+@inject NavigationManager NavigationManager
+
+@code{ 
+
+        [Parameter]
+
+        public int id { get; set; }
+
+        public bool isUpdate { get; set; } = false;
+
+        //bool loading = true;
+
+        //IList<Estudiante> estudiantes;
+
+        Estudiante estudiante = new Estudiante();
+
+        protected async Task Update()
+        {
+            HttpResponseMessage response;
+
+            response = await http.PutAsJsonAsync<Estudiante>($"api/Estudiante/ModificarInfo/{id}", estudiante!);
+
+            NavigationManager.NavigateTo("/estudiantes");
+        }
+    }

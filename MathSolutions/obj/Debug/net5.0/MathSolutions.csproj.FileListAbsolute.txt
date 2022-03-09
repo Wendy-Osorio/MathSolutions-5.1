@@ -1,0 +1,520 @@
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\appsettings.json
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.StaticWebAssets.xml
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.exe
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.deps.json
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.runtimeconfig.json
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.runtimeconfig.dev.json
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\ref\MathSolutions.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.pdb
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.Views.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.Views.pdb
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.AssemblyReference.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.AssemblyInfoInputs.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.AssemblyInfo.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.CoreCompileInputs.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorComponent.input.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Profesores.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorComponent.output.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\MathSolutions.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.TagHelpers.input.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.TagHelpers.output.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorCoreGenerate.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Profesores.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorAssemblyInfo.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorAssemblyInfo.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\staticwebassets\MathSolutions.StaticWebAssets.Manifest.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\staticwebassets\MathSolutions.StaticWebAssets.xml
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\scopedcss\bundle\MathSolutions.styles.css
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\scopedcss\projectbundle\MathSolutions.bundle.scp.css
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorTargetAssemblyInfo.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorTargetAssemblyInfo.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.Views.pdb
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.CopyComplete
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\ref\MathSolutions.dll
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.pdb
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.genruntimeconfig.cache
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Cursos.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Estudiantes.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Cursos.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Estudiantes.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\AddUpdateProfesores.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\AddUpdateProfesores.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscripciones.razor.g.cs
+C:\Users\Sucus\source\repos\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscripciones.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\appsettings.json
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.exe
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.deps.json
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.runtimeconfig.json
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\ref\MathSolutions.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.pdb
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.Views.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.Views.pdb
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorComponent.input.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorComponent.output.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\MathSolutions.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\scopedcss\bundle\MathSolutions.styles.css
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\scopedcss\projectbundle\MathSolutions.bundle.scp.css
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\staticwebassets\MathSolutions.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\staticwebassets\MathSolutions.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.Views.pdb
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\ref\MathSolutions.dll
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.pdb
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\DeleteProfesores.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\Profesores.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\DeleteProfesores.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\Profesores.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\AddInscripciones.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\DeleteInscripciones.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\Inscripciones.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\UpdateInscripciones.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\AddInscripciones.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\DeleteInscripciones.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\Inscripciones.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\UpdateInscripciones.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\AddEstudiantes.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\DeleteEstudiantes.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\Estudiantes.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\UpdateEstudiantes.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\AddEstudiantes.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\DeleteEstudiantes.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\Estudiantes.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\UpdateEstudiantes.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\AddCursos.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\Cursos.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\DeleteCursos.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\UpdateCursos.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\AddCursos.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\Cursos.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\DeleteCursos.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\UpdateCursos.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\AddProfesores.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\AddProfesores.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\UpdateProfesores.razor.g.cs
+C:\Users\Usuario\Desktop\Tareas\APW1.4\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\UpdateProfesores.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\appsettings.json
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.StaticWebAssets.xml
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.exe
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.deps.json
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.runtimeconfig.json
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.runtimeconfig.dev.json
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\ref\MathSolutions.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.pdb
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.Views.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\MathSolutions.Views.pdb
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Humanizer.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.AssemblyReference.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.AssemblyInfoInputs.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.AssemblyInfo.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.CoreCompileInputs.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorComponent.input.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\AddCursos.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\Cursos.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\DeleteCursos.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\UpdateCursos.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\AddInscripciones.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\DeleteInscripciones.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\Inscripciones.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\UpdateInscripciones.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\DeleteEstudiantes.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\Estudiantes.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\AddProfesores.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\DeleteProfesores.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\Profesores.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\UpdateProfesores.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorComponent.output.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\MathSolutions.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.TagHelpers.input.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.TagHelpers.output.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorCoreGenerate.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\AddCursos.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\Cursos.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\DeleteCursos.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\UpdateCursos.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\AddInscripciones.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\DeleteInscripciones.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\Inscripciones.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\UpdateInscripciones.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\DeleteEstudiantes.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\Estudiantes.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\AddProfesores.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\DeleteProfesores.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\Profesores.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\UpdateProfesores.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorAssemblyInfo.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorAssemblyInfo.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\staticwebassets\MathSolutions.StaticWebAssets.Manifest.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\staticwebassets\MathSolutions.StaticWebAssets.xml
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\scopedcss\bundle\MathSolutions.styles.css
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\scopedcss\projectbundle\MathSolutions.bundle.scp.css
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorTargetAssemblyInfo.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorTargetAssemblyInfo.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.Views.pdb
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.CopyComplete
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\ref\MathSolutions.dll
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.pdb
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\MathSolutions.genruntimeconfig.cache
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\AddupdateEstudiantes.razor.g.cs
+C:\Users\cmezq\Downloads\MathSolutions 5.0\MathSolutions\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\AddupdateEstudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\appsettings.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.StaticWebAssets.xml
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.exe
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.deps.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.runtimeconfig.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.runtimeconfig.dev.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\ref\MathSolutions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.Views.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.Views.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Humanizer.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.AssemblyReference.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.AssemblyInfoInputs.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.AssemblyInfo.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.CoreCompileInputs.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorComponent.input.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\AddCursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\Cursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\DeleteCursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\UpdateCursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\AddInscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\DeleteInscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\Inscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\UpdateInscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\DeleteEstudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\Estudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\AddProfesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\DeleteProfesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\Profesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\UpdateProfesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorComponent.output.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\MathSolutions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.TagHelpers.input.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.TagHelpers.output.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorCoreGenerate.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\AddCursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\Cursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\DeleteCursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\UpdateCursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\AddInscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\DeleteInscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\Inscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\UpdateInscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\DeleteEstudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\Estudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\AddProfesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\DeleteProfesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\Profesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\UpdateProfesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorAssemblyInfo.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorAssemblyInfo.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\scopedcss\bundle\MathSolutions.styles.css
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\scopedcss\projectbundle\MathSolutions.bundle.scp.css
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\staticwebassets\MathSolutions.StaticWebAssets.Manifest.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\staticwebassets\MathSolutions.StaticWebAssets.xml
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorTargetAssemblyInfo.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorTargetAssemblyInfo.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.Views.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.CopyComplete
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\ref\MathSolutions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.genruntimeconfig.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\AddEstudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\UpdateEstudiante.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\AddEstudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\UpdateEstudiante.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\MathSolutionsBD\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Tewr.Blazor.FileReader.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\appsettings.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.StaticWebAssets.xml
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.exe
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.deps.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.runtimeconfig.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.runtimeconfig.dev.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\ref\MathSolutions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.Views.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\MathSolutions.Views.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Humanizer.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\bin\Debug\net5.0\Tewr.Blazor.FileReader.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.AssemblyReference.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.AssemblyInfoInputs.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.AssemblyInfo.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.CoreCompileInputs.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorComponent.input.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\AddCursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\Cursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\DeleteCursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\courses\UpdateCursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\AddInscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\DeleteInscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\Inscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Inscriptions\UpdateInscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\AddEstudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\DeleteEstudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\Estudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Students\UpdateEstudiante.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\AddProfesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\DeleteProfesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\Profesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Pages\Teachers\UpdateProfesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorComponent.output.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\RazorDeclaration\MathSolutions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.TagHelpers.input.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.TagHelpers.output.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorCoreGenerate.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\AddCursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\Cursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\DeleteCursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\courses\UpdateCursos.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\AddInscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\DeleteInscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\Inscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Inscriptions\UpdateInscripciones.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\AddEstudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\DeleteEstudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\Estudiantes.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Students\UpdateEstudiante.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\AddProfesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\DeleteProfesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\Profesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Teachers\UpdateProfesores.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorAssemblyInfo.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorAssemblyInfo.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\scopedcss\bundle\MathSolutions.styles.css
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\scopedcss\projectbundle\MathSolutions.bundle.scp.css
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\staticwebassets\MathSolutions.StaticWebAssets.Manifest.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\staticwebassets\MathSolutions.StaticWebAssets.xml
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorTargetAssemblyInfo.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.RazorTargetAssemblyInfo.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.Views.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\ref\MathSolutions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.genruntimeconfig.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Pagina web con blazor\MathSolutions-main\MathSolutions 5.1\MathSolutions\obj\Debug\net5.0\MathSolutions.csproj.CopyComplete

@@ -1,0 +1,40 @@
+﻿@page "/inscripciones/delete/{id:int}"
+
+<h1>Eliminar inscripcion</h1>
+
+<h2>¿Estas seguro que desea borrar esta inscripcion de la base de datos?</h2>
+
+<button class="btn btn-outline-primary" @onclick="ConfirmDelete">Eliminar</button>
+<a class="btn btn-outline-danger" href="/inscripciones">Cancelar</a>
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@inject HttpClient http
+@using System.Net.Http
+@using System.Net.Http.Json
+@inject NavigationManager NavigationManager
+
+@code{
+    [Parameter]
+
+    public int id { get; set; }
+
+    Inscripcion inscripcion;
+
+    protected override async Task OnInitializedAsync()
+    {
+        inscripcion = await http.GetFromJsonAsync<Inscripcion>($"api/inscripcion/{id}");
+
+    }
+
+    private async Task ConfirmDelete()
+    {
+        var response = await http.DeleteAsync($"api/inscripcion/{id}");
+        if (response.IsSuccessStatusCode)
+        {
+            NavigationManager.NavigateTo("/inscripcions");
+        }
+    }
+
+}
+

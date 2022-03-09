@@ -1,0 +1,74 @@
+﻿@page "/estudiantes"
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@inject HttpClient http
+@using System.Net.Http
+@using System.Net.Http.Json
+<div class="tittle">
+    <div class="tittle_content">
+        <h1>Estudiantes</h1>
+    </div>
+
+    <div class="tittle_btn">
+        <a href="/estudiantes/add" class="btn btn-outline-success">
+            <i class="oi oi-plus"></i>
+            &nbsp;
+            Agregar
+        </a>
+    </div>
+
+</div>
+
+<p>Tabla de Estudiantes</p>
+
+@if (estudiantes == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre Completo</th>
+                <th>Correo</th>
+                <th>Opciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var estudiante in estudiantes)
+            {
+                <tr>
+                    <td>@estudiante.IdEstudiante</td>
+                    <td>@estudiante.NombreCompleto</td>
+                    <td>@estudiante.Correo</td>
+                    <td>
+                        <span class="icon">
+                            <a href="/estudiantes/update/@estudiante.IdEstudiante" class="oi oi-pencil" title="Editar"></a>
+                        </span>
+                        &nbsp;
+                        &nbsp;
+                        &nbsp;
+                        <span class="icon">
+                            <a href="/estudiantes/delete/@estudiante.IdEstudiante" class="oi oi-trash" title="Eliminar"></a>
+                        </span>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private readonly string api = "api/CuentaEstudiante/TodosLosEstudiantes";
+    private IList<Estudiante> estudiantes;
+
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        estudiantes = await http.GetFromJsonAsync<IList<Estudiante>>(api);
+    }
+}

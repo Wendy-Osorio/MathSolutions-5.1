@@ -1,0 +1,40 @@
+﻿@page "/profesores/delete/{id:int}"
+
+<h1>Eliminar profesor</h1>
+
+<h2>¿Estas seguro que desea borrar a este profesor de la base de datos?</h2>
+
+<button class="btn btn-outline-primary" @onclick="ConfirmDelete">Eliminar</button>
+<a class="btn btn-outline-danger" href="/profesores">Cancelar</a>
+
+@using MathSolutions.Data.Models
+@using MathSolutions.Data
+@inject HttpClient http
+@using System.Net.Http
+@using System.Net.Http.Json
+@inject NavigationManager NavigationManager
+
+@code{
+    [Parameter]
+
+    public int id { get; set; }
+
+    Profesor profesor;
+
+    protected override async Task OnInitializedAsync()
+    {
+        profesor = await http.GetFromJsonAsync<Profesor>($"api/Profesor/{id}");
+
+    }
+
+    private async Task ConfirmDelete()
+    {
+        var response = await http.DeleteAsync($"api/CuentaProfesor/Eliminar/{id}");
+        if (response.IsSuccessStatusCode)
+        {
+            NavigationManager.NavigateTo("/profesores");
+        }
+    }
+
+}
+
